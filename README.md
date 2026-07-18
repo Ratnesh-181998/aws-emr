@@ -2,6 +2,10 @@
 
 Amazon EMR (Elastic MapReduce) is a fully managed big data platform that simplifies running vast analytical workloads. It allows users to process petabyte-scale datasets using open-source frameworks like Apache Spark, Hadoop, and Hive without managing physical infrastructure.
 
+<img width="1360" height="820" alt="image" src="https://github.com/user-attachments/assets/c9a41dc9-2e01-4633-a018-ba50a413bc74" />
+
+- https://medium.com/@prasku/aws-emr-big-data-processing-with-spark-and-hadoop-649509bddd56
+- https://www.youtube.com/watch?v=a_3Md9nV2Mk
 - https://aws.amazon.com/emr/
 - https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html
 - https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-overview.html
