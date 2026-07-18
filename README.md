@@ -20,6 +20,7 @@ Amazon EMR (Elastic MapReduce) is a fully managed big data platform that simplif
 - https://github.com/topics/aws-emr?l=hcl&o=desc&s=updated
 - https://github.com/aws-samples/emr-serverless-samples
 - https://github.com/aws/aws-emr-best-practices
+- https://github.com/aws-samples/emr-serverless-samples
 
 
 ---
