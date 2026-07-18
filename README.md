@@ -13,6 +13,17 @@ Amazon EMR (Elastic MapReduce) is a fully managed big data platform that simplif
 
 ---
 
+- https://github.com/aws/aws-emr-best-practices/issues
+- https://github.com/AWS-Big-Data-Projects/AWS-EMR
+- https://github.com/topics/emr?l=hcl
+- https://github.com/awslabs/aws-emr-launch
+- https://github.com/topics/aws-emr?l=hcl&o=desc&s=updated
+- https://github.com/aws-samples/emr-serverless-samples
+- https://github.com/aws/aws-emr-best-practices
+
+
+---
+
 # Key Features and Deployments
 - You can run EMR to handle ETL (Extract, Transform, Load), machine learning, and data warehousing using three main deployment options:
 - EMR Serverless: A server-free option where you pay only for the compute resources used during your specific job—without configuring or managing clusters.
